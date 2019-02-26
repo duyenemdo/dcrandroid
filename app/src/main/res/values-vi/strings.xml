@@ -14,7 +14,7 @@
     <string name="require_to_send_fund">Yêu cầu gửi tiền</string>
     <string name="add_an_account">THÊM MỘT TÀI KHOẢN</string>
     <string name="available_balance">SỐ DƯ KHẢ DỤNG</string>
-    <string name="input_or_scan_the_destination_transactionfee_and_the_amount_in_dcr_to_send_fund">Nhập hoặc quét địa chỉ ví đích (ví nhận \ và số tiền trong DCR để gửi tiền.</string>
+    <string name="input_or_scan_the_destination_transactionfee_and_the_amount_in_dcr_to_send_fund">Nhập hoặc quét địa chỉ ví đích (ví nhận) \nand số tiền trong DCR để gửi tiền.</string>
     <string name="max">GỬI TỐI ĐA</string>
     <string name="type">Loại</string>
     <string name="loading">Đang chạy</string>
@@ -242,7 +242,7 @@
     <string name="camera_permission_scan">Ứng dụng này cần có sự cho phép của máy ảnh để quét QRCode cho một địa chỉ ví, Vui lòng cho phép các quyền trong hộp thoại tiếp theo.</string>
     <string name="scan_info">Quét mã QR để lấy địa chỉ ví bị từ chối</string>
     <string name="scan">Quét địa chỉ mã QR</string>
-    <string name="qr_code_help_text">Nhập hoặc quét địa chỉ ví đích \ và số tiền trong DCR để gửi tiền.</string>
+    <string name="qr_code_help_text">Nhập hoặc quét địa chỉ ví đích \nand số tiền trong DCR để gửi tiền.</string>
     <!--/QR Code-->
 
     <!--Address-->
